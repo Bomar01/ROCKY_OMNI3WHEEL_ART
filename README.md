@@ -1,4 +1,4 @@
-# ROCKY_OMNI3WHEEL_ART
+# ROCKY_OMNI3WHEEL_Implementación
 Implementación de PRM en un robot holonómico de tres ruedas
 
 El presente artículo se centra en el desarrollo de una plataforma experimental denominada ROCKY, un robot holonómico de tres ruedas que implementa el algoritmo PRM (Probabilistic Roadmap), diseñado para su navegación en entornos con obstáculos fijos. Al utilizar este algoritmo en un robot omnidireccional de tres ruedas, se aprovechan sus características de maniobrabilidad y capacidad de movimiento, al tiempo que se reducen tanto la complejidad como los costos de implementación, tanto económicos como computacionales.
